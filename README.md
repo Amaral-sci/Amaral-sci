@@ -2,11 +2,11 @@
 
 ## iOS Developer | Swift | SwiftUI
 
-Desenvolvedor iOS focado na criação de aplicativos nativos
-para o ecossistema Apple.
+Desenvolvedor iOS focado na criação de aplicativos nativos para o ecossistema Apple.
 
-Atualmente desenvolvendo aplicações utilizando Swift 6,
-SwiftUI 6 e arquitetura MVVM.
+Profissional com experiência em ambientes técnicos e industriais, trazendo conhecimento em resolução de problemas, processos e desenvolvimento de soluções.
+
+Atualmente desenvolvendo aplicações utilizando Swift 6, SwiftUI 6 e arquitetura MVVM.
 
 ## Tecnologias
 
@@ -32,6 +32,17 @@ Aplicativo inspirado em uma Pokédex.
 
 ## Formação
 
-iOS 18, SwiftUI 6 & Swift 6
-iOS Apps + AI (ChatGPT, Gemini)
-Udemy - 47,5 horas
+🎓 iOS 18, SwiftUI 6 & Swift 6 — iOS Apps + AI (ChatGPT, Gemini)
+
+Udemy  
+Carga horária: 47,5 horas
+
+## Contato
+
+📧 jonathan_kazi@icloud.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/jonathan-amaral1997/
+
+🐙 GitHub:
+https://github.com/Amaral-sci
