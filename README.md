@@ -1,4 +1,3 @@
-# Jonathan Amaral
 
 # Olá, eu sou Jonathan Amaral 👋
 
