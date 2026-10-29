@@ -6,7 +6,7 @@
 
 Desenvolvo aplicativos nativos para iPhone, com foco em interfaces claras, integração com serviços e experiências que resolvem problemas reais.
 
-Minha experiência em ambientes técnicos e industriais contribui para uma abordagem prática: investigar falhas, entender processos e construir soluções confiáveis.
+Profissional com experiência em ambientes técnicos e industriais, trazendo conhecimento em resolução de problemas, processos e desenvolvimento de soluções.
 
 ## Projeto em destaque
 
@@ -14,7 +14,7 @@ Minha experiência em ambientes técnicos e industriais contribui para uma abord
 
 Aplicativo que transforma caminhadas em conquistas de territórios virtuais, com mapa competitivo, rankings por cidade e personalização de perfil.
 
-Atuo no desenvolvimento da interface, nas regras do jogo, na integração com o backend e na preparação das versões para distribuição.
+Desenvolvo o WalkZone de ponta a ponta: aplicativo iOS, backend, banco de dados, autenticação e regras do jogo, além dos testes e da distribuição pela App Store. Utilizo ferramentas de inteligência artificial para apoiar a implementação e a investigação de problemas.
 
 **Principais recursos e tecnologias:**
 
@@ -42,7 +42,9 @@ Atuo no desenvolvimento da interface, nas regras do jogo, na integração com o 
 ## Outros projetos
 
 🏠 - **CasaSmart:** aplicativo de automação residencial para controle de dispositivos inteligentes.
+
 🛒 - **AML Store:** aplicativo de loja desenvolvido com SwiftUI.
+
 🎮 - **DexPoke:** aplicativo inspirado em uma Pokédex.
 
 ## Formação complementar
